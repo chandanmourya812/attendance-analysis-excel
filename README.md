@@ -79,7 +79,7 @@ This dashboard answers all three questions at a glance.
  Aspiring Data Analyst | MBA Candidate — Amity University
 ## Socila 
 
-🔗 [LinkedIn](https://www.linkedin.com/in/chandamourya)
+🔗 [LinkedIn](https://www.linkedin.com/in/chandamourya812)
 
 ## Project
 [Attendance_Analysis_Dashboard.xlsx](https://github.com/user-attachments/files/26323852/Attendance_Analysis_Dashboard.xlsx)
