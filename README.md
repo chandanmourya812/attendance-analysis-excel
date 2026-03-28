@@ -51,7 +51,7 @@ This dashboard answers all three questions at a glance.
 - Most common reason for absence: **Unplanned leave**
 - Month with highest absenteeism: **January**
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 > <img width="723" height="465" alt="image" src="https://github.com/user-attachments/assets/897225cc-bbb0-4705-827b-e39c68e966fc" />
 
